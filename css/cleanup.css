@@ -7,6 +7,6 @@
   display: none;
 }
 
-div[class="slick-wicked"] {
+#tag-2 + div[class="slick-wicked"] {
   display: none;
 }
